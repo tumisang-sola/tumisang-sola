@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tumisang-sola
-- 👀 I’m interested in web development and software development
-- 🌱 I’m currently learning c++ 
-- 💞️ I’m looking to collaborate on c++ projects
+- 👀 I’m interested in nodejs
 - 📫 How to reach me ... email me @ tumisangramoholi607@gmail.com
 
 <!---
